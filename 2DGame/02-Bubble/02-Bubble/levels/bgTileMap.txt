@@ -3,22 +3,22 @@ TILEMAP
 16 16							-- Tile size & block size
 images/tilemap.png 	-- Tilesheet
 4 6 								-- Number of tiles in tilesheet
-e                                                                                             e
-e                                                                                            ee
-e                                                                                            ef
-e                                                                                            ef
-e                                                    3                       3kkkkkkkk       ee
-e                                                   kkkkkkl                  1eefffefe       ef
-e                                                  ke    epl                kkeffeffffkk     ef
-e                                                        efpl               efeeffeffefe     ee
-e                    3           3kkkl                   effpl   3          eeffeeffeffe     ef
-e            kkkkkkkkk          3kefepl      3           eeffpl 33          efeefeefffee     ee
-ekkkkkkkkkkkkefeffeeee    kkkkkkkeffepl     31kkkkkkkkkhkefefepkkkkkkkkhkkkkeeffeefffffekkkkkee
-efefefefeffeeeefefeefe    efefeffeefefefkkkkkkeefefefeehefefefefefeeffehefefefeeeeefeefffefefef
-febbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbhbbbbbbbbbbddbdchbbbbbbbbbbbdbccdbccfffe
-ed                             bdcdcdbefeefcccdcdccdcfehdbffefeffd     hbdbfeffefee        bcff
-e                                                    bch    bfeed      h   bccdfefd           a
-e            aaaaaa                                    h     efe       h       bcd            a
+                                                                                              e
+                                                                                             ee
+                                                                                             ef
+                                                                                             ef
+                                                     3                       3kkkkkkkk       ee
+                                                    kkkkkkl                  1eefffefe       ef
+                                                   keiiiiepl                kkeffeffffkk     ef
+                                                   jjjjjiefpl               efeeffeffefe     ee
+                     3           3kkkl             jjjjjjeffpl   3          eeffeeffeffe     ef
+             kkkkkkkkk          3kefepl      3     jjjjjjeeffpl 33          efeefeefffee     ee
+ kkkkkkkkkkkkefeffeeee    kkkkkkkeffepl     31kkkkkkkkkhkefefepkkkkkkkk kkkkeeffeefffffekkkkkee
+ fefefefeffeeeefefeefe    efefeffeefefefkkkkkkeefefefeehefefefefefeeffe efefefeeeeefeefffefefef
+ ebbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbhbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbe
+iiiijjjjijjjijijijijiijjjijjjjiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+iijjjijijjijjijijjjiijjjijiijiiiiiiiiiiiiiiiiiiiiiiiiiihiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+ijjjijijjjjijiiiiiijijijijjjijiiiiiijiiiiiijjjiijjjjiiihjjiiiefeiijjijjhiiiiiiiiiiiijjjjiiiiiii
 e            effefe                                    h     eee       h                      a
 e       aaa  efeffe                                    h     efe       h                      a
 e   1   efe  eefefe              3aaaag                      eee  3                          ef
